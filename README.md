@@ -34,6 +34,7 @@ python -m venv venv
 - Ativar o VENV
 
 ```bash
+cd s3
 source ./venv/bin/activate
 ```
 
